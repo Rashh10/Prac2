@@ -1,1 +1,1 @@
-utility function of version5.
+utility function of version6.
